@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Talents and Hobbies
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Kumar Veeravel, and I am currently studying Data Science at Lambda School. I studied mechanical engineering, and I have worked in game testing, as well as . I am excited about data science because I think it provides us a means to leverage the vast amount of infomration that we have about the world. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm excited to start posting projects here.
