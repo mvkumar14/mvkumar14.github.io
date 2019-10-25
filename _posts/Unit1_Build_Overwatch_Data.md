@@ -7,7 +7,7 @@ tags: [DataScience]
 comments: true
 ---
 
-I looked at how the Video Game Overwatch is balanced along a few of its metrics using game data from March 2017. One of the metrics I analyzed was ultimate effectiveness by hero. This chart shows that the heroes with the strongest ultimates were: Reaper, Pharah, Soldier:76, and Genji.
+I looked at how the Video Game Overwatch is balanced using game data from March 2017. One of the metrics I analyzed was ultimate effectiveness by hero. This chart shows that the heroes with the strongest ultimates were: Reaper, Pharah, Soldier:76, and Genji.
 
 
 ![visual](https://raw.githubusercontent.com/mvkumar14/mvkumar14.github.io/master/img/Build_1_visual1.png)
