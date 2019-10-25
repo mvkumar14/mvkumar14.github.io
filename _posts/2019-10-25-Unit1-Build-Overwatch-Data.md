@@ -12,4 +12,4 @@ I looked at how the Video Game Overwatch is balanced using game data from March 
 
 ![visual](https://raw.githubusercontent.com/mvkumar14/mvkumar14.github.io/master/img/Build_1_visual1.png)
 
-For More Visit: https://medium.com/@mvkumar14/balance-metrics-in-overwatch-58f40da3175e
+For more read the [full article](https://medium.com/@mvkumar14/balance-metrics-in-overwatch-58f40da3175e)
