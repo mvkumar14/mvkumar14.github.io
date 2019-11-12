@@ -8,4 +8,6 @@ My name is Kumar Veeravel, and I am currently studying Data Science at Lambda Sc
 
 I studied mechanical engineering, and I have worked as an electrical engineer at Worldwide Aeros (A blimp manufacturer). I have also worked as a video game tester. I am trying to shift into the software industry to be able to work on faster paced projects, and improve my personal workflow through automation.
 
-You can follow me on [twitter](https://twitter.com/KumarVeeravel) for thoughts and DSLearnings in my computer science journey.
+You can find me on [Linkedin].(https://www.linkedin.com/in/kumar-veeravel-b8a70a4a/)
+
+You can also follow me on [twitter](https://twitter.com/KumarVeeravel) for thoughts and DSLearnings in my computer science journey.
