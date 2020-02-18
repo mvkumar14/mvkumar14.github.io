@@ -2,7 +2,7 @@
 layout: post
 title: Balance Metrics in "Overwatch"
 subtitle: Analyzing Overwatch game metrics to better understand game balance
-gh-repo:  mvkumar14/Lambda-Portfolio
+gh-repo:  mvkumar14/Lambda-Portfolio/Unit_1_Build
 tags: [DataScience]
 comments: true
 ---
